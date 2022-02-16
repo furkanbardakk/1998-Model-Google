@@ -1,0 +1,88 @@
+.center {
+    width: auto;
+    display: block;
+    text-align: center;
+    
+}
+
+.content {
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.left-bar {
+    padding: 15px;
+    text-align: center;
+    width: 35%;
+    background-color: rgb(126, 229, 218);
+    float: left;
+    margin-top: 3px;
+    margin-right: 2px;
+    color: black;
+}
+
+.middle-bar {
+    padding: 10px;
+    text-align: center;
+    width: 20%;
+    background-color:rgb(112, 204, 194);
+    margin-top: 3px;
+    margin-right: 2px;
+    float: left;
+    font-size: small;
+}
+
+.right-bar {
+    padding: 0px;
+    text-align: center;
+    width: 41%;
+    float: left;
+    background-color: rgb(98, 179, 170);
+    margin-top: 3px;
+    margin-right: 2px;
+    color: black;
+    font-size: small;
+}
+
+
+.nav {
+    border-color: gray;
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 252px;
+}
+
+.bg-color {
+    background-color: #EEEEEE;
+}
+
+input {
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+input[type="text" i] {
+    margin-bottom: auto;
+}
+
+.btn {
+    text-decoration: none;
+    background-color: -internal-light-dark(rgb(239, 239, 239), rgb(59, 59, 59));
+    color: -internal-light-dark(black, white);
+    white-space: pre;
+    align-items: flex-start;
+    text-align: center;
+    cursor: default;
+    appearance: auto;
+    user-select: none;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+
+}
+
+.box {
+    text-align: center;
+
+}
